@@ -1,0 +1,13 @@
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\bin\Debug\İstatistik Öğreniyorum v2.0.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\bin\Debug\İstatistik Öğreniyorum v2.0.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik_Öğreniyorum_v2._0.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik_Öğreniyorum_v2._0.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik Öğreniyorum v2.0.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik Öğreniyorum v2.0.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik Öğreniyorum v2.0.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik_Öğreniyorum_v2._0.Çalış.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\bin\Debug\İstatistik Öğreniyorum v2.0.exe.config
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik Öğreniyorum v2.0.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\13 - Geliştirme Yapılacak\05 - İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik Öğreniyorum v2.0.csprojAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\13 - Geliştirme Yapılacak\05 - İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik Öğreniyorum v2.0.exe
+G:\03 - Cloud\05 - Github - Akademi\13 - Geliştirme Yapılacak\05 - İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\İstatistik Öğreniyorum v2.0\obj\x86\Debug\İstatistik Öğreniyorum v2.0.pdb
